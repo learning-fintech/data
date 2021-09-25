@@ -1,0 +1,3 @@
+https://www.zillow.com/research/data/
+Zillow All Homes (SFR, Condo/Co-Op), Time Series, Smoothed, Seasonally Adjusted($)
+Last downloaded Sept. 25, 2021.
