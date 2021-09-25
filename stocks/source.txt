@@ -1,1 +1,3 @@
 Stock price data from: https://www.kaggle.com/rohitjain454/all-stocks-5yr
+
+FAANG data from: https://www.kaggle.com/jacksoncrow/stock-market-dataset
